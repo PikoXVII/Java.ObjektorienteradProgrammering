@@ -1,0 +1,2 @@
+johnDoe,1155
+alice99,1700
